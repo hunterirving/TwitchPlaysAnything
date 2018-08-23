@@ -7,7 +7,7 @@ from pykeyboard import PyKeyboard
 import cfg
 import os.path 
 
-# Shoutout to cormac-obrien on instructables for this REGEX
+# Shoutout to cormac-obrien on instructables
 # https://www.instructables.com/id/Twitchtv-Moderator-Bot/
 CHAT_MSG = re.compile(r"^:\w+!\w+@\w+\.tmi\.twitch\.tv PRIVMSG #\w+ :")
 
