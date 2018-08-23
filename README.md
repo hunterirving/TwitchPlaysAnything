@@ -26,7 +26,7 @@ One of the big reasons _TwitchPlaysPokemon_ worked as well as it did was Pokemon
 
 In what could be described as a _"One step forward, two steps ~~back~~ sideways"_ situation, even the chaotic nature of a noisy Twitch chat would eventually beat the game given enough time.
 
-Other games, like Super Mario Bros. (Super Mario Bros. DX shown here), have a much higher penalty for failure.
+Other games, like Super Mario Bros. (Super Mario Bros. Deluxe shown here), have a much higher penalty for failure.
 
 <img src="https://github.com/hunterirving/TwitchPlaysAnything/blob/master/images/mariodie.gif">
 
