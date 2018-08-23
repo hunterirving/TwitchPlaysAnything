@@ -34,4 +34,4 @@ As such, these kind of games might require some.. "divine intervention" to be ma
 
 <img src="https://github.com/hunterirving/TwitchPlaysAnything/blob/master/images/marioinvince.gif">
 
-##### _Who said cheaters never prosper?_
+##### _Who said cheaters never prosper..?_
