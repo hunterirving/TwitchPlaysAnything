@@ -7,7 +7,7 @@ from pykeyboard import PyKeyboard
 import cfg
 import os.path 
 
-# Shoutout to cormac-obrien on instructables
+# Shoutout to cormac-obrien on instructables, without whom, this project would not have been possible.
 # https://www.instructables.com/id/Twitchtv-Moderator-Bot/
 CHAT_MSG = re.compile(r"^:\w+!\w+@\w+\.tmi\.twitch\.tv PRIVMSG #\w+ :")
 
