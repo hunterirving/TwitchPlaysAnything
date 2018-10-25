@@ -35,3 +35,6 @@ As such, these kind of games might require some.. "divine intervention" to be ma
 <img src="https://github.com/hunterirving/TwitchPlaysAnything/blob/master/images/marioinvince.gif">
 
 ##### _Who said cheaters never prosper??_
+
+
+(Note: all gameplay captured on real hardware (GameBoy Player) using custom controller to serial adapter. This project does not support or condone piracy.)
